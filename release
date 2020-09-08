@@ -1,0 +1,8 @@
+Origin: abdullah1
+Label: abdullah1
+Suite: stable
+version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: love
